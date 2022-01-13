@@ -1,5 +1,9 @@
 {
   "name": "light-dark-mode",
+  "author": {
+    "name": "BHARGAV VADLA",
+    "email": "bhargavvadla4b6@gmail.com"
+  },
   "private": true,
   "version": "1.0.0",
   "engines": {
